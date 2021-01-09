@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG,"charAt(4) : "+str.charAt(4));
         Log.d(TAG,"isEmpty() : "+str.isEmpty());
 
+
     }
 
     @Override
@@ -29,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
         MenuInflater inflater =getMenuInflater();
         inflater.inflate(R.menu.my_menu,menu);
-
         return true;
     }
 
