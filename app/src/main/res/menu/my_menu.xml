@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="New group"
+        android:icon="@drawable/ic_attachment"
+        android:id="@+id/OurProduct1"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="New broadcast"
+        android:icon="@drawable/ic_attachment"
+        android:id="@+id/OurProduct2"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="WhatsApp Web"
+        android:icon="@drawable/ic_attachment"
+        android:id="@+id/OurProduct3"
+        app:showAsAction="never"/>
+    <item
+        android:title="Starred messages"
+        android:icon="@drawable/ic_attachment"
+        android:id="@+id/OurProduct4"
+        app:showAsAction="never"/>
+    <item
+        android:title="Payments"
+        android:icon="@drawable/ic_attachment"
+        android:id="@+id/OurProduct5"
+        app:showAsAction="never"/>
+    <item
+        android:title="Settings"
+        android:icon="@drawable/ic_attachment"
+        android:id="@+id/OurProduct6"
+        app:showAsAction="never"/>
+</menu>
