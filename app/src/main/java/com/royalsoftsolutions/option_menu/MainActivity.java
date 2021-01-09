@@ -62,9 +62,4 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
-
-    boolean abc()
-    {
-        return true;
-    }
 }
