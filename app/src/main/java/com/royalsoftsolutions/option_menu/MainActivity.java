@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG,"charAt(4) : "+str.charAt(4));
         Log.d(TAG,"isEmpty() : "+str.isEmpty());
-
+        Log.d(TAG,"contains() : "+str.contains("java"));
 
     }
 
